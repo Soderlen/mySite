@@ -12,7 +12,7 @@ let Test = () => {
 let tt=useLocation();
 
   return <>
- rytrytrytr
+ rytrytrytredr
 {tt.pathname}
   </>;
 }
