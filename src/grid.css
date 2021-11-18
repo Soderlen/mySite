@@ -1,0 +1,11 @@
+.Mygrid
+{
+    display: grid;
+    grid-template-columns: 2ft 5ft;
+}
+.border
+{
+border: solid  ;
+
+}
+
